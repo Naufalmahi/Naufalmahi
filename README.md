@@ -30,11 +30,11 @@ This contribution graph is not decoration. It drives a small browser game.
 
 <div align="center">
 
-<img src="./assets/contribution-snake.svg" width="100%" alt="Animated GitHub contribution graph" />
+<img src="https://raw.githubusercontent.com/Naufalmahi/Naufalmahi/gh-pages/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution graph" />
 
 <br />
 
-<a href="https://naufalmahi.github.io/Naufalmahi/game/">
+<a href="https://htmlpreview.github.io/?https://github.com/Naufalmahi/Naufalmahi/blob/main/game/index.html">
   <img src="./assets/play-button.svg" width="260" alt="Play Contribution Run" />
 </a>
 

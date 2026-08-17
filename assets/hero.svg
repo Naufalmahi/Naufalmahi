@@ -1,0 +1,39 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="fade" x1="0" y1="0" x2="1200" y2="0">
+    <stop stop-color="#9FE870" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#9FE870" stop-opacity=".55"/>
+    <stop offset="1" stop-color="#9FE870" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>
+    .serif{font:400 108px Georgia,serif}.mono{font:500 14px monospace;letter-spacing:3px}.small{font:400 12px monospace;letter-spacing:2px}
+  </style>
+</defs>
+<rect width="1200" height="430" fill="#0A0E0C"/>
+<path d="M0 382H1200" stroke="#1F2D26"/>
+<path d="M0 383H1200" stroke="url(#fade)" stroke-dasharray="70 80">
+  <animate attributeName="stroke-dashoffset" from="0" to="-150" dur="4s" repeatCount="indefinite"/>
+</path>
+<text x="72" y="72" fill="#4D5A54" class="small">NAUFAL ALMAHI · FULL-STACK DEVELOPER · INDONESIA</text>
+<text x="70" y="194" fill="#E8EFE9" class="serif">Naufal</text>
+<text x="76" y="295" fill="#9FE870" class="serif" font-style="italic">Almahi</text>
+<rect x="410" y="286" width="13" height="2" fill="#9FE870" filter="url(#glow)">
+  <animate attributeName="opacity" values="1;.2;1" dur="1.4s" repeatCount="indefinite"/>
+</rect>
+<text x="72" y="340" fill="#7F8D86" class="mono">I BUILD THE PARTS USERS SHOULD NEVER HAVE TO THINK ABOUT.</text>
+<g transform="translate(900 76)">
+  <rect width="228" height="112" fill="#0F1613" stroke="#1F2D26"/>
+  <circle cx="24" cy="28" r="4" fill="#9FE870">
+    <animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="40" y="33" fill="#E8EFE9" class="small" letter-spacing="1">OPEN TO WORK</text>
+  <text x="20" y="63" fill="#4D5A54" class="small" letter-spacing="1">FOCUS</text>
+  <text x="20" y="86" fill="#7F8D86" class="small" letter-spacing="1">SAAS · WEB · PRODUCT</text>
+</g>
+<g opacity=".65">
+  <circle cx="1080" cy="320" r="2" fill="#9FE870"><animate attributeName="cy" values="320;312;320" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="1120" cy="350" r="2" fill="#9FE870"><animate attributeName="cy" values="350;342;350" dur="2.4s" repeatCount="indefinite"/></circle>
+  <circle cx="1040" cy="345" r="2" fill="#9FE870"><animate attributeName="cy" values="345;337;345" dur="2.8s" repeatCount="indefinite"/></circle>
+</g>
+</svg>

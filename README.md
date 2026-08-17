@@ -4,43 +4,48 @@
 
 <br />
 
-<a href="https://github.com/Naufalmahi">GitHub</a> · <a href="https://github.com/Naufalmahi/zoneline">Zoneline</a> · <a href="https://github.com/Naufalmahi/wisesa-frontend">Wisesa</a>
+<a href="https://github.com/Naufalmahi">PROFILE</a> &nbsp;·&nbsp;
+<a href="https://github.com/Naufalmahi/zoneline">ZONELINE</a> &nbsp;·&nbsp;
+<a href="https://github.com/Naufalmahi/wisesa-frontend">WISESA</a> &nbsp;·&nbsp;
+<a href="https://github.com/Naufalmahi/jual-baju">JUAL BAJU</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="./assets/status.svg" width="100%" alt="Current build status" />
 
 </div>
 
 ---
 
-## 01 / SHIPPING LOG
-
-Not a dashboard. Just a short record of what I actually build.
-
-```text
-BUILD   zoneline       tenant isolation
-SHIP    wisesa         product frontend
-SHIP    wisesa-api     backend services
-BUILD   jual-baju     checkout flow
-PLAY    contribution   browser game
-```
-
----
-
-## 02 / PLAY THE GRAPH
-
-This contribution graph is not decoration. It drives a small browser game.
+## 01 / BUILD STREAM
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Naufalmahi/Naufalmahi/gh-pages/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution graph" />
+<img src="./assets/build-stream.svg" width="100%" alt="Animated build stream" />
 
-<br />
+</div>
 
-<a href="https://htmlpreview.github.io/?https://github.com/Naufalmahi/Naufalmahi/blob/main/game/index.html">
-  <img src="./assets/play-button.svg" width="260" alt="Play Contribution Run" />
-</a>
+---
+
+## 02 / CONTRIBUTION RUN
+
+<div align="center">
+
+<img src="./assets/contribution-snake.svg" width="100%" alt="Animated contribution activity" />
 
 <br /><br />
 
-<sub>Eat the commits. Don't hit the wall.</sub>
+<a href="https://htmlpreview.github.io/?https://github.com/Naufalmahi/Naufalmahi/blob/main/game/index.html">
+  <img src="./assets/play-button.svg" width="520" alt="Play Contribution Run" />
+</a>
+
+<br />
+
+<sub>Collect commits. Keep the run alive.</sub>
 
 </div>
 
@@ -48,73 +53,63 @@ This contribution graph is not decoration. It drives a small browser game.
 
 ## 03 / SELECTED WORK
 
-| PROJECT | PROBLEM SPACE | STACK | HARD PARTS |
-| --- | --- | --- | --- |
-| **[Zoneline](https://github.com/Naufalmahi/zoneline)** | Multi-tenant commerce | Laravel · PHP · MySQL | tenant isolation · checkout · payment flow |
-| **[Wisesa Frontend](https://github.com/Naufalmahi/wisesa-frontend)** | Product frontend | Next.js · React | app shell · state across real flows |
-| **[Wisesa Backend](https://github.com/Naufalmahi/wisesa-backend)** | API and data services | Node.js · SQL Server | schema · query paths · service boundaries |
-| **[Jual Baju](https://github.com/Naufalmahi/jual-baju)** | E-commerce workflow | Laravel · PHP · MySQL | cart · order flow · confirmation |
+<div align="center">
+
+<img src="./assets/projects.svg" width="100%" alt="Selected projects" />
+
+</div>
+
+| PROJECT | PROBLEM SPACE | STACK |
+| --- | --- | --- |
+| **[Zoneline](https://github.com/Naufalmahi/zoneline)** | Multi-tenant commerce | Laravel · PHP · MySQL |
+| **[Wisesa Frontend](https://github.com/Naufalmahi/wisesa-frontend)** | Product frontend | Next.js · React |
+| **[Wisesa Backend](https://github.com/Naufalmahi/wisesa-backend)** | API & data services | Node.js · SQL Server |
+| **[Jual Baju](https://github.com/Naufalmahi/jual-baju)** | E-commerce workflow | Laravel · PHP · MySQL |
 
 ---
 
-## 04 / WHERE THE HARD PARTS LIVE
+## 04 / WHAT I ACTUALLY BUILD
 
-**Zoneline**  
-Tenant isolation, checkout states, payment flow.
+<div align="center">
 
-**Wisesa**  
-Product shell, application state and real user flows.
+<img src="./assets/focus.svg" width="100%" alt="Engineering focus areas" />
 
-**Wisesa API**  
-Schema decisions and query paths.
+</div>
 
-**Jual Baju**  
-Order flow from cart to confirmation.
+**Zoneline** — tenant isolation, checkout states, payment orchestration.  
+**Wisesa** — product shell, application state, real user flows.  
+**Wisesa API** — schemas, service boundaries, query paths.  
+**Jual Baju** — cart, orders, confirmation and deployment.
 
 ---
 
-## 05 / HOW I WORK
+## 05 / THE LOOP
 
-```text
-01  FIND THE CONSTRAINT
-    What actually makes the product hard?
+<div align="center">
 
-02  BUILD THE SMALLEST USEFUL PATH
-    Make the core flow work before polishing.
+<img src="./assets/loop.svg" width="100%" alt="Build ship learn repeat loop" />
 
-03  SHIP IT
-    A deployed imperfect product teaches more
-    than an unfinished perfect one.
+</div>
 
-04  FIX WHAT USERS EXPOSE
-    The weird cases are usually where the
-    real engineering starts.
-```
+> Find the constraint → build the smallest useful path → ship it → fix what users expose.
 
 ---
 
 ## 06 / STACK
 
-```text
-BACKEND     PHP · Laravel · Python · Node.js
-FRONTEND    JavaScript · TypeScript · React · Next.js
-DATA        MySQL · SQL Server
-TOOLING     Git · GitHub · Docker · VS Code
-```
-
----
-
-## 07 / ACTIVITY
-
 <div align="center">
 
-<img src="./assets/activity.svg" width="100%" alt="GitHub activity" />
+<img src="./assets/stack.svg" width="100%" alt="Technology stack" />
 
 </div>
 
 ---
 
 <div align="center">
+
+<img src="./assets/activity.svg" width="100%" alt="Recent output" />
+
+<br /><br />
 
 <sub>BUILD · SHIP · LEARN · REPEAT</sub>
 

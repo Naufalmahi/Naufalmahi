@@ -9,7 +9,7 @@
 
 ## 02 / CONTRIBUTION RUN
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/Naufalmahi/Naufalmahi@main/assets/contribution-snake.svg" width="100%" alt="Contribution graph visual" />
+<img src="https://cdn.jsdelivr.net/gh/Naufalmahi/Naufalmahi@main/assets/github-contribution-snake.svg" width="100%" alt="Contribution graph visual" />
 <br /><br />
 <a href="https://htmlpreview.github.io/?https://github.com/Naufalmahi/Naufalmahi/blob/main/game/index.html"><img src="https://cdn.jsdelivr.net/gh/Naufalmahi/Naufalmahi@main/assets/play-button.svg" width="300" alt="Play Contribution Run" /></a>
 <br /><sub>eat the commits Â· survive the run Â· beat your best</sub>

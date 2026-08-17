@@ -30,12 +30,12 @@ This contribution graph is not decoration. It drives a small browser game.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Naufalmahi/Naufalmahi/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution graph" />
+<img src="./assets/contribution-snake.svg" width="100%" alt="Animated GitHub contribution graph" />
 
 <br />
 
 <a href="https://naufalmahi.github.io/Naufalmahi/game/">
-  <img src="https://img.shields.io/badge/PLAY_CONTRIBUTION_RUN-9FE870?style=for-the-badge&labelColor=0A0E0C&logoColor=0A0E0C" alt="Play Contribution Run" />
+  <img src="./assets/play-button.svg" width="260" alt="Play Contribution Run" />
 </a>
 
 <br /><br />
@@ -95,21 +95,20 @@ Order flow from cart to confirmation.
 
 ## 06 / STACK
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,python,mysql,mssql,git,github,docker,vscode&perline=13" alt="Development stack" />
-
-</div>
+```text
+BACKEND     PHP · Laravel · Python · Node.js
+FRONTEND    JavaScript · TypeScript · React · Next.js
+DATA        MySQL · SQL Server
+TOOLING     Git · GitHub · Docker · VS Code
+```
 
 ---
 
-## 07 / RECENT OUTPUT
+## 07 / ACTIVITY
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Naufalmahi&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true&title_color=9FE870&icon_color=9FE870" alt="GitHub statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naufalmahi&layout=compact&hide_border=true&theme=github_dark&langs_count=8&title_color=9FE870" alt="Top languages" />
+<img src="./assets/activity.svg" width="100%" alt="GitHub activity" />
 
 </div>
 
@@ -118,10 +117,6 @@ Order flow from cart to confirmation.
 <div align="center">
 
 <sub>BUILD · SHIP · LEARN · REPEAT</sub>
-
-<br /><br />
-
-<img src="https://komarev.com/ghpvc/?username=Naufalmahi&style=flat-square&color=9FE870" alt="Profile views" />
 
 <br /><br />
 
